@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6++GRtDsPSvicFvKqUOr0wTc0SJyTkO53iCjvNee/gE/slie/h0Uh8nieCV+TIjEGCRRMJMKsZrFOk9y4VDcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Номе\\source\\repos\\LabWork2\\LabWork2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Номе\\.nuget\\packages\\csvhelper\\27.0.1\\csvhelper.27.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

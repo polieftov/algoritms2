@@ -1,0 +1,15 @@
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.exe
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.deps.json
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.runtimeconfig.json
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.runtimeconfig.dev.json
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.dll
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.pdb
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.csprojAssemblyReference.cache
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.AssemblyInfoInputs.cache
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.AssemblyInfo.cs
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.dll
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.pdb
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.genruntimeconfig.cache
+C:\Users\Номе\source\repos\LabWork2\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.csproj.CoreCompileInputs.cache
+C:\Users\Номе\source\repos\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.csproj.CopyComplete

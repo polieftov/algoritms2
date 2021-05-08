@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<experiments>
+	<minElement>1</minElement>
+	<maxElement>20</maxElement>
+	<startLength>10</startLength>
+	<diff>1</diff>
+	<maxLength>1000</maxLength>
+	<repeat>1</repeat>
+</experiments>
